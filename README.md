@@ -1,7 +1,10 @@
 [![Header](https://github.com/fedehsq/fedehsq/blob/main/images/me.png "Header")](https://fedehsq.github.io/)
 
 
-### Hi there <img src="https://github.com/fedehsq/fedehsq/blob/main/images/hi.gif" width="30px">
+## Hi there <img src="https://github.com/fedehsq/fedehsq/blob/main/images/hi.gif" width="30px">
+I'm a software and app developer. I'm from Italy, living in Carrara and currently studying Cybesecurity at University of Pisa.
+
+
 
 <!--
 **fedehsq/fedehsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
