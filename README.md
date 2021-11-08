@@ -7,10 +7,12 @@ I love coding and to develop software, in particular mobile app. I'm from Italy,
 ## Languages
 ![](https://img.shields.io/badge/Code-Dart-red)\
 ![](https://img.shields.io/badge/Code-Java-orange)\
+![](https://img.shields.io/badge/Code-JavaScript-important)\
 ![](https://img.shields.io/badge/Code-C(++)-yellow)\
 ![](https://img.shields.io/badge/Code-Python-yellowgreen)\
 ![](https://img.shields.io/badge/Code-Swift-green)\
 ![](https://img.shields.io/badge/Code-OCaml-success)\
+
 
 
 
