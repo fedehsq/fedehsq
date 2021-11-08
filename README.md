@@ -16,7 +16,7 @@ I love coding and to develop software, in particular mobile app. I'm from Italy,
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedehsq&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedehsq?hide=python,HTML&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedehsq?hide=python&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
