@@ -5,12 +5,12 @@
 I love coding and to develop software, in particular mobile app. I'm from Italy, living in Carrara and currently studying Cybesecurity at University of Pisa.
 
 ## Languages
-![](https://img.shields.io/badge/Code-Dart-red)
-![](https://img.shields.io/badge/Code-Java-orange)
-![](https://img.shields.io/badge/Code-C(++)-yellow)
-![](https://img.shields.io/badge/Code-Python-yellowgreen)
-![](https://img.shields.io/badge/Code-Swift-green)
-![](https://img.shields.io/badge/Code-OCaml-success)
+![](https://img.shields.io/badge/Code-Dart-red)\
+![](https://img.shields.io/badge/Code-Java-orange)\
+![](https://img.shields.io/badge/Code-C(++)-yellow)\
+![](https://img.shields.io/badge/Code-Python-yellowgreen)\
+![](https://img.shields.io/badge/Code-Swift-green)\
+![](https://img.shields.io/badge/Code-OCaml-success)\
 
 
 
