@@ -11,7 +11,11 @@ I love coding and to develop software, in particular mobile app. I'm from Italy,
 ![](https://img.shields.io/badge/Code-C(++)-yellow)\
 ![](https://img.shields.io/badge/Code-Python-yellowgreen)\
 ![](https://img.shields.io/badge/Code-Swift-green)\
-![](https://img.shields.io/badge/Code-OCaml-success)\
+![](https://img.shields.io/badge/Code-OCaml-success)
+
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
