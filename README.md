@@ -5,7 +5,7 @@
 I love coding and to develop software, in particular mobile app. I'm from Italy, living in Carrara and currently studying Cybesecurity at University of Pisa.
 
 ## Languages
-https://img.shields.io/badge/Code-Dart-red
+![](https://img.shields.io/badge/Code-Dart-red)
 
 
 
