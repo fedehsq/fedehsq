@@ -1,7 +1,7 @@
-[![Header](https://github.com/fedehsq/fedehsq/blob/main/me.png "Header")](https://fedehsq.github.io/)
+[![Header](https://github.com/fedehsq/fedehsq/blob/main/images/me.png "Header")](https://fedehsq.github.io/)
 
 
-### Hi there 👋
+### Hi there 👋 <img src="https://github.com/fedehsq/fedehsq/blob/main/images/hi.gif" width="30px">
 
 <!--
 **fedehsq/fedehsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
