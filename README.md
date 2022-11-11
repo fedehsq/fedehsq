@@ -22,4 +22,5 @@ I love coding and to develop software, in particular mobile app. I'm from Italy,
 ![](https://img.shields.io/badge/Code-C(++)-yellow)\
 ![](https://img.shields.io/badge/Code-Python-yellowgreen)\
 ![](https://img.shields.io/badge/Code-Swift-green)\
-![](https://img.shields.io/badge/Code-OCaml-success)
+![](https://img.shields.io/badge/Code-OCaml-success)\
+![](https://img.shields.io/badge/Code-Go-darkgreen)
