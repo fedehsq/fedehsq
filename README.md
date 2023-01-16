@@ -13,7 +13,6 @@ I love coding and to develop software, in particular mobile app. I'm from Italy,
 
 * Visit my [website](https://fedehsq.github.io/).
 * If you are a student, this [timetable web app](https://fedehsq.github.io/timetable/) could help you.
-* Try [My message in a bottle](https://my-message-in-a-bottle.herokuapp.com/), a new kind of messages delivery! 
 
 ## Languages
 ![](https://img.shields.io/badge/Code-Dart-red)\
