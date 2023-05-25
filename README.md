@@ -2,7 +2,7 @@
 
 
 ## Hi there <img src="https://github.com/fedehsq/fedehsq/blob/main/images/hi.gif" width="30px">
-I love coding and to develop software, in particular mobile app. I'm from Italy, living in Carrara and currently studying Cybesecurity at University of Pisa.
+I love coding and to develop software, in particular mobile app. I'm from Italy, graduated in Computer Science and in M.Sc. Cybersecurity at the University of Pisa.
 
 ## Online projects
 * If you are a UniPi student, you could download my app!  
