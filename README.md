@@ -73,7 +73,7 @@ Now I'm working as Full Stack Developer at [Health 3000](https://www.health3000.
 It’s a complete ecosystem, integrating server infrastructure, line management, call routing, user configuration, and administrative control.  
 An end-to-end system covering the entire PBX stack — from infrastructure to mobile experience.
 
-### 🔧 Open Source & Web
+### 🔧 Other
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -82,6 +82,15 @@ An end-to-end system covering the entire PBX stack — from infrastructure to mo
 | [**WhatsApp Clone**](https://github.com/fedehsq/WhatsApp_clone) | Flutter · Node.js | Real-time chat with Node backend for sessions and messages |
 | [**OpenAI Chatbot**](https://github.com/fedehsq/openai_chatbot) | Flutter · AI | Chatbot powered by OpenAI APIs with image generation |
 ---
+
+## 🚀 Open Source Contributions
+
+| Repository | Contribution |
+|---|---|
+| [flutter_callkit_incoming](https://github.com/hiennguyen92/flutter_callkit_incoming) | [Add Background Message Handler and Enhanced Android Foreground Service Support](https://github.com/hiennguyen92/flutter_callkit_incoming/pull/800) |
+| [xmpp_plugin](https://github.com/vavadiyahiren/xmpp_plugin) | [Fix presence mode and presence type](https://github.com/vavadiyahiren/xmpp_plugin/pull/102) |
+
+<br>
 
 <div align="center">
 
